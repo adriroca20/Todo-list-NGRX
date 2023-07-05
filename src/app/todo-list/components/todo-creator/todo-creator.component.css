@@ -1,0 +1,6 @@
+.creator-container{
+    width: 70vw;
+    max-width: 700px;
+    box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.459);
+    border-radius:7px;
+}

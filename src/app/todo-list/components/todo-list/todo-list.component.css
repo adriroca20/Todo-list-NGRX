@@ -1,0 +1,16 @@
+.todo-list-container{
+    height: 50vh;
+    background-color: white;
+    border: 1px solid white;
+    border-radius:20px;
+    width: 70vw;
+    max-width: 700px;
+    box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.459);
+    padding: 20px;
+    overflow-y: scroll;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}

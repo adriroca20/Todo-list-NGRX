@@ -1,0 +1,6 @@
+<div class="input-group">
+    <h3 class="form-control">{{todoData.text}}</h3>
+    <div class="input-group-text">
+        <input class="form-check-input mt-0" (click)="toggleDone()" type="checkbox" [checked]="todoData.complete">
+      </div>
+</div>
